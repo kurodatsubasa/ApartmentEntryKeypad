@@ -1,7 +1,8 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Hai Le, Scott Mitchell
+ * 02/27/18
+ * Program 3
+ * The purpose of this program is to simulate a keypad at apartment entrance.
  */
 package program3;
 
