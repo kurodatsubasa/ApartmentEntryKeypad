@@ -2,7 +2,7 @@
  * Hai Le, Scott Mitchell
  * 02/27/18
  * Program 3
- * The purpose of this program is to simulate a keypad at apartment entrance.
+ * This class reads in the source file for ApartmentRecords
  */
 package program3;
 
